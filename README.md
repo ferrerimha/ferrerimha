@@ -9,7 +9,7 @@ Aqui você vai encontrar alguns dos meus projetos pessoais, estudos e experiênc
 ## 🛠️ Tecnologias e Ferramentas
 
 - Python / Django / Flask  
-- Java / JavaFX  
+- Java / Spring  
 - HTML / CSS / JavaScript  
 - Docker  
 - Git & GitHub  
