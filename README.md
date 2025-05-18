@@ -24,8 +24,6 @@ Aqui você vai encontrar alguns dos meus projetos pessoais, estudos e experiênc
 ### [scrapy_noticias](https://github.com/ferrerimha/scrapy_noticias)
 Bot feito em Python com Scrapy e Selenium para coletar notícias da CNN.
 
-### [teste](https://github.com/ferrerimha/teste)
-Ambiente de testes com Dockerfile configurado para rodar aplicações em containers.
 
 ---
 
