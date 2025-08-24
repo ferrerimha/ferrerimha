@@ -24,6 +24,8 @@ Aqui você vai encontrar alguns dos meus projetos pessoais, estudos e experiênc
 ### [scrapy_noticias](https://github.com/ferrerimha/scrapy_noticias)
 Bot feito em Python com Scrapy e Selenium para coletar notícias da CNN.
 
+### [Projeto DsList](https://github.com/ferrerimha/gameslist)
+API Rest realizada durante o intensivo de Spring Boot do Nélio Alves.
 
 ---
 
